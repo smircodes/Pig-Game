@@ -4,7 +4,7 @@ Welcome to the Pig Game project! This game was developed as part of "Jonas Schme
 
 ---
 ### Online Demo :
-**https://aaramiss.github.io/Pig-Game/**
+**https://smircodes.github.io/Pig-Game/**
 
 ### How to Play
 1. The game has two players, Player 1 and Player 2.
